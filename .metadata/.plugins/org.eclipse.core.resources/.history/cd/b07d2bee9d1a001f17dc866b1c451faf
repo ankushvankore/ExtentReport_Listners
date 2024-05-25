@@ -1,0 +1,10 @@
+package com.ExtentReportDemos;
+
+public class D01NormalReport {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

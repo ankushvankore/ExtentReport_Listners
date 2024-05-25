@@ -1,0 +1,9 @@
+package com.ExtentReportDemos;
+
+import org.testng.annotations.Test;
+
+public class D02ReportViaTestNG {
+  @Test
+  public void f() {
+  }
+}

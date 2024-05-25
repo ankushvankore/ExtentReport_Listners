@@ -1,0 +1,8 @@
+package com.ListnersDemos;
+
+import org.testng.internal.annotations.IListeners;
+
+public class ListnersClass implements IListeners
+{
+
+}
